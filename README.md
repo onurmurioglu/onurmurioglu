@@ -3,11 +3,9 @@
 </p>
 <h1 align="center">Hi everyone, I'm Onur Murioğlu 👋</h1>
 
-
-
+<br>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
 
 - 🔭 I’m currently working with **React, React Native, and Java Spring Boot**.
 - 💬 Ask me about **React, React Native, TypeScript, Javascript, Java, Spring Boot**.
@@ -16,10 +14,9 @@
 - 📄 Know about my experiences: **[LinkedIn](https://www.linkedin.com/in/onur-murio%C4%9Flu-9409ab19a/)**.
 - 🌐 Visit my portfolio: **[My Portfolio](https://onurmurioglu.github.io/my-portfolio/)**.
 
-
+<br>
 
 ---
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=onurmurioglu&theme=algolia" alt="onurmurioglu" />
